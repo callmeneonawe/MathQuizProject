@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, rgb(183, 57, 57) , rgb(32, 160, 195));
+}
+h1{
+    color:rgb(0, 0, 255);
+}
+button{
+    color:blue;
+    background-color: rgb(255, 132, 0);
+}
